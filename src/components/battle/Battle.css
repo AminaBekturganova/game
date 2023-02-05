@@ -1,0 +1,78 @@
+.container{
+    width: 1130px;
+    margin: 0 auto;
+    padding: 22px;
+}
+
+/* Card */
+.battle_igr{
+    margin: 15px 5px 2px;
+    justify-content: space-between;
+    border-radius: 7px;
+    color: white;
+    width: 360px;
+    
+}
+
+.bigBtn{
+   width: 80px;
+   background: #0761DC;
+   color: white;
+   border-radius: 7px;
+
+}
+.dota{
+margin-top: -52px;
+margin-left: -12px;
+font-size: 17px;
+color: #FFFFFF;
+}
+
+.battle_dota{
+    position: absolute;
+    color: white;
+    width: 370px;
+    height:99px;
+    margin-left: 5px;
+    margin-top: -104px;
+    text-align: center;
+    background: #121B24;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.x{
+    margin-left: -81px;   
+}
+.worid{
+    margin-left: -133px;     
+}
+.global{
+    margin-left: -149px; 
+}
+.Play{
+    margin-left: -243px; 
+}
+.minec{
+    margin-left: -97px; 
+}
+.Lea{
+    margin-left: -163px;
+}
+.Stone{
+    margin-left: -123px;
+}
+.face{
+    margin-left: -83px;
+}
+
+
+
+
+
+.cards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

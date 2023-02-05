@@ -1,0 +1,217 @@
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 22px;
+}
+.SF{
+font-size: 20px;
+color: #FFFFFF;
+}
+.h3{
+margin-left: 676px;
+margin-top: -41px;
+font-weight: 400;
+font-size: 18px;
+color: #B5B5B5;
+}
+.kategoriya{
+    margin-left: 969px;
+    margin-top: -43px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #C644CB;
+}
+.lorem{
+padding-top: 30px;
+font-weight: 400;
+font-size: 20px;
+line-height: 149.69%;
+letter-spacing: 0.05em;
+color: #B5B5B5;
+}
+
+.timee{
+left: 135px;
+padding-top: 67px;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+}
+.timer{
+margin-left: 139px;
+margin-top: -44px;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+color: #FFFFFF;
+}
+.stavka{
+    margin-left: 309px;
+margin-top: -50px;
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+color: #FFFFFF;
+}
+.money{
+    margin-left: 369px;
+margin-top: -42px;
+font-weight: 400;
+font-size: 19px;
+color: #FFB156;
+}
+.glaz{
+    display: flex;
+    width: 20px;
+    height: 15px;
+    margin-left: 489px;
+    margin-top: -36px;
+    
+}
+.pros{
+    margin-left: 519px;
+    margin-top: -19px;
+    font-size: 18px;
+    color: #949494;
+}
+.nalev{
+    display: flex;
+    width: 20px;
+    height: 15px;
+    margin-left: 689px;
+    margin-top: -36px;
+}
+.prosm{
+    margin-left: 716px;
+    margin-top: -18px;
+    font-size: 18px;
+    color: #949494;
+}
+.otclik{
+    display: flex;
+    height: 35px;
+    width: 165px;
+    margin-left: 980px;
+    margin-top: -50px;
+    justify-content: center;
+    align-items: center;
+   color: #FFFFFF;
+   background: #0761DC;
+   border-radius: 5px;
+}
+.zakaz{
+    margin-top: 40px;
+font-size: 19px;
+color: #FFFFFF;
+}
+.azi{
+font-size: 19px;
+margin-left: 116px;
+margin-top: -58px;
+color: #FFFFFF;
+}
+.p{
+    width: 536px;
+    margin-left: 619px;
+margin-top: -68px;
+height: 72px;
+background: #272F37;
+border-radius: 10px;
+}
+.tel{
+    display: flex;
+    margin-left: 669px;
+margin-top: -68px;
+bottom: 12.5%;
+color: #d6dbe0;
+}
+.tele{
+    margin-left: 699px;
+    margin-top: -25px;
+font-size: 20px;
+line-height: 152.43%;
+color: #9D9D9D;
+}
+.telegram{
+    display: flex;
+    margin-left: 819px;
+margin-top: -41px;
+bottom: 12.5%;
+color: #d6dbe0;
+}
+.telegramm{
+    margin-left: 849px;
+    margin-top: -24px;
+  font-size: 20px;
+    color: #9D9D9D;
+}
+.what{
+    display: flex;
+    margin-left: 979px;
+margin-top: -41px;
+bottom: 12.5%;
+color: #d6dbe0;
+}
+.whats{
+    margin-left: 1009px;
+    margin-top: -23px;
+  font-size: 20px;
+    color: #9D9D9D;
+}
+.pp{
+    width: 1165px;
+height: 57px;
+margin-top: 84px;
+background: #131313;
+color: white;
+text-align: center;
+font-weight: 500;
+font-size: 24px;
+line-height: 63px;
+
+}
+/* Card */
+.cart:not(:last-child){
+    margin-bottom: 30px;
+}
+
+.cart{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.cart__img{
+    width: 153px;
+    height: 75px;
+}
+
+.cart__img img {
+    width: 100%;
+}
+
+.desc{
+    width: 581px;
+    margin-left: 30px;
+}
+
+.desc p {
+    font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #FFFFFF;
+}
+
+.price {
+    margin-left: 20%;
+}
+
+.price span{
+    font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #FFFFFF;
+margin-right: 20px;
+}
